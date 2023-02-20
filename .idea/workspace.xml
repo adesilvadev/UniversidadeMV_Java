@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58ff4d78-26f1-4f0f-8705-dd6d72fa2cac" name="Changes" comment="Primeiro commit do repositório.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/java/aula4/Casting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/java/aula4/Concatenar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/java/aula4/ConceitoScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/java/aula4/FuncoesMatematicas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/java/aula4/Variaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/java/aula4/Variaveis.java" afterDir="false" />
+    <list default="true" id="58ff4d78-26f1-4f0f-8705-dd6d72fa2cac" name="Changes" comment="Conclusão da aula 4.">
+      <change afterPath="$PROJECT_DIR$/src/edu/java/aula4/Exercicio1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +44,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FuncoesMatematicas">
+  <component name="RunManager" selected="Application.Exercicio1">
     <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.java.aula4.Casting" />
       <module name="Curso_Java_UnivesidadeMV" />
@@ -64,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Concatenar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.java.aula4.Concatenar" />
+    <configuration name="ConceitoScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.java.aula4.ConceitoScanner" />
       <module name="Curso_Java_UnivesidadeMV" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConceitoScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.java.aula4.ConceitoScanner" />
+    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.java.aula4.Exercicio1" />
       <module name="Curso_Java_UnivesidadeMV" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio1" />
         <item itemvalue="Application.FuncoesMatematicas" />
         <item itemvalue="Application.ConceitoScanner" />
         <item itemvalue="Application.Casting" />
         <item itemvalue="Application.Variaveis" />
-        <item itemvalue="Application.Concatenar" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676921759865</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Conclusão da aula 4.">
+      <created>1676925486884</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676925486884</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,7 +159,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro commit do repositório." />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiro commit do repositório." />
+    <MESSAGE value="Conclusão da aula 4." />
+    <option name="LAST_COMMIT_MESSAGE" value="Conclusão da aula 4." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
