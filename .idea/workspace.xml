@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="58ff4d78-26f1-4f0f-8705-dd6d72fa2cac" name="Changes" comment="" />
+    <list default="true" id="58ff4d78-26f1-4f0f-8705-dd6d72fa2cac" name="Changes" comment="Primeiro commit do repositório.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/java/aula4/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/java/aula4/Concatenar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/java/aula4/ConceitoScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/java/aula4/FuncoesMatematicas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java/aula4/Variaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/java/aula4/Variaveis.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2M13h9t5KVyNdodzjgmQ0M8Yw9u" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +40,92 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.editor"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
 }]]></component>
+  <component name="RunManager" selected="Application.FuncoesMatematicas">
+    <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.java.aula4.Casting" />
+      <module name="Curso_Java_UnivesidadeMV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.java.aula4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Concatenar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.java.aula4.Concatenar" />
+      <module name="Curso_Java_UnivesidadeMV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.java.aula4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConceitoScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.java.aula4.ConceitoScanner" />
+      <module name="Curso_Java_UnivesidadeMV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.java.aula4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuncoesMatematicas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.java.aula4.FuncoesMatematicas" />
+      <module name="Curso_Java_UnivesidadeMV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.java.aula4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variaveis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.java.aula4.Variaveis" />
+      <module name="Curso_Java_UnivesidadeMV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.java.aula4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FuncoesMatematicas" />
+        <item itemvalue="Application.ConceitoScanner" />
+        <item itemvalue="Application.Casting" />
+        <item itemvalue="Application.Variaveis" />
+        <item itemvalue="Application.Concatenar" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,6 +135,33 @@
       <option name="presentableId" value="Default" />
       <updated>1676921382845</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeiro commit do repositório.">
+      <created>1676921759865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676921759865</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro commit do repositório." />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro commit do repositório." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
