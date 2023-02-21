@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58ff4d78-26f1-4f0f-8705-dd6d72fa2cac" name="Changes" comment="Criação das packages aula5 e aula6.">
-      <change afterPath="$PROJECT_DIR$/src/edu/java/aula5/Ex1_ContaTelefone.java" afterDir="false" />
+    <list default="true" id="58ff4d78-26f1-4f0f-8705-dd6d72fa2cac" name="Changes" comment="Estruturas de repetição - IF - ELSE. Exercício 1">
+      <change afterPath="$PROJECT_DIR$/src/edu/java/aula5/Ex2_DiasDaSemana.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex1_ContaTelefone">
+  <component name="RunManager">
     <configuration name="Ex1_ContaTelefone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.java.aula5.Ex1_ContaTelefone" />
       <module name="Curso_Java_UnivesidadeMV" />
@@ -179,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676929103665</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Estruturas de repetição - IF - ELSE. Exercício 1">
+      <created>1676990018723</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676990018723</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,7 +208,8 @@
     <MESSAGE value="Entrega do exercício 3." />
     <MESSAGE value="Correção dos exercícios 1, 2 e 3." />
     <MESSAGE value="Criação das packages aula5 e aula6." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação das packages aula5 e aula6." />
+    <MESSAGE value="Estruturas de repetição - IF - ELSE. Exercício 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estruturas de repetição - IF - ELSE. Exercício 1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
