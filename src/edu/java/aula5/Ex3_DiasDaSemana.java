@@ -8,10 +8,10 @@ public class Ex3_DiasDaSemana {
 
         Scanner sc = new Scanner(System.in);
 
-        int valor = sc.nextInt();
+        int x = sc.nextInt();
         String dia;
 
-        switch (valor){
+        switch (x){
 
             case 1:
                 dia = "domingo";
