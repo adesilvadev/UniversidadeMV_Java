@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58ff4d78-26f1-4f0f-8705-dd6d72fa2cac" name="Changes" comment="Estruturas de repetição - While, For e Do-While&#10;Exercício 2.">
-      <change afterPath="$PROJECT_DIR$/src/edu/java/aula6/Exercicio3.java" afterDir="false" />
+    <list default="true" id="58ff4d78-26f1-4f0f-8705-dd6d72fa2cac" name="Changes" comment="Estruturas de repetição - While, For e Do-While&#10;Exercício 3.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -263,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677269115568</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Estruturas de repetição - While, For e Do-While&#10;Exercício 3.">
+      <created>1677271132693</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1677271132694</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,7 +302,8 @@
     <MESSAGE value="Estruturas de repetição - While, For e Do-While&#10;3 exemplos" />
     <MESSAGE value="Estruturas de repetição - While, For e Do-While&#10;Exercício 1." />
     <MESSAGE value="Estruturas de repetição - While, For e Do-While&#10;Exercício 2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Estruturas de repetição - While, For e Do-While&#10;Exercício 2." />
+    <MESSAGE value="Estruturas de repetição - While, For e Do-While&#10;Exercício 3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Estruturas de repetição - While, For e Do-While&#10;Exercício 3." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
