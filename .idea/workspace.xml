@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58ff4d78-26f1-4f0f-8705-dd6d72fa2cac" name="Changes" comment="Testes das questões de provas.&#10;Acertei tudo e tirei 8...&#10;Vou perturbar a vida do suporte. Rsrsrs">
-      <change afterPath="$PROJECT_DIR$/src/edu/javaoo/aula7/entities/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/javaoo/aula7/intermediario/Aula1.java" afterDir="false" />
+    <list default="true" id="58ff4d78-26f1-4f0f-8705-dd6d72fa2cac" name="Changes" comment="Programação Orientada à Objetos.&#10;Alula 1 - Exercício 1.">
+      <change afterPath="$PROJECT_DIR$/src/edu/javaoo/aula7/entities/Produtos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/javaoo/aula7/intermediario/Aula1_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
     ]
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Ex1_ContaTelefone">
     <configuration name="Ex1_ContaTelefone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.java.aula5.Ex1_ContaTelefone" />
       <module name="Curso_Java_UnivesidadeMV" />
@@ -278,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677272675382</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Programação Orientada à Objetos.&#10;Alula 1 - Exercício 1.">
+      <created>1677285702987</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1677285702987</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,7 +320,8 @@
     <MESSAGE value="Estruturas de repetição - While, For e Do-While&#10;Exercício 2." />
     <MESSAGE value="Estruturas de repetição - While, For e Do-While&#10;Exercício 3." />
     <MESSAGE value="Testes das questões de provas.&#10;Acertei tudo e tirei 8...&#10;Vou perturbar a vida do suporte. Rsrsrs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testes das questões de provas.&#10;Acertei tudo e tirei 8...&#10;Vou perturbar a vida do suporte. Rsrsrs" />
+    <MESSAGE value="Programação Orientada à Objetos.&#10;Alula 1 - Exercício 1." />
+    <option name="LAST_COMMIT_MESSAGE" value="Programação Orientada à Objetos.&#10;Alula 1 - Exercício 1." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
