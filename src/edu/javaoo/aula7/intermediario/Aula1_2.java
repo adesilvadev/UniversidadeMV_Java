@@ -7,21 +7,41 @@ import java.util.Scanner;
 
 public class Aula1_2 {
 
-    Locale.setDefault(Locale.US);
-    Scanner sc = new Scanner(System.in);
+    public static void main(String[] args) {
+        Locale.setDefault(Locale.US);
+        Scanner sc = new Scanner(System.in);
 
-    Produto produto = new Produto();
-    System.out.println("Entre com as informações do produto: ");
-    System.out.print ("Nome: ");
-    produto.nome = sc.nextLine();
-    System.out.print("Preço: ");
-    produto.preco = sc.nextDouble();
-    System.out.print("Quantidade: ");
-    produto.quantidade = sc.nextInt();
+        Produtos produto = new Produtos();
+        System.out.println("Entre com as informações do produto: ");
+        System.out.print ("Nome: ");
+        produto.nome = sc.nextLine();
+        System.out.print("Preço: ");
+        produto.preco = sc.nextDouble();
+        System.out.print("Quantidade: ");
+        produto.quantidade = sc.nextInt();
 
-    System.out.println();
+        System.out.println();
+        System.out.println("Data do produto: " + produto);
+
+        System.out.println();
+        System.out.println("Quantidade a ser adicionada: ");
+        int quantidade = sc.nextInt();
+        produto.adicionarProdutos(quantidade);
+
+        System.out.println();
+        System.out.println("Produto atualizado: " + produto);
+
+        System.out.println();
+        System.out.println("Quantidade a ser removida: ");
+        quantidade = sc.nextInt();
+        produto.removeProdutos(quantidade);
+
+        System.out.println();
+        System.out.println("Produto Atualizado: " + produto);
 
 
+        sc.close();
+    }
+    }
 
-    sc.close();
-}
+
