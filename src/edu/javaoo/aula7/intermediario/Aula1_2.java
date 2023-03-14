@@ -11,21 +11,22 @@ public class Aula1_2 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        Produtos produto = new Produtos();
+
         System.out.println("Entre com as informações do produto: ");
         System.out.print ("Nome: ");
-        produto.nome = sc.nextLine();
+        String nome = sc.nextLine();
         System.out.print("Preço: ");
-        produto.preco = sc.nextDouble();
+        double preco = sc.nextDouble();
         System.out.print("Quantidade: ");
-        produto.quantidade = sc.nextInt();
+        int quantidade = sc.nextInt();
+        Produtos produto = new Produtos(nome, preco, quantidade);
 
         System.out.println();
         System.out.println("Data do produto: " + produto);
 
         System.out.println();
         System.out.println("Quantidade a ser adicionada: ");
-        int quantidade = sc.nextInt();
+        quantidade = sc.nextInt();
         produto.adicionarProdutos(quantidade);
 
         System.out.println();
