@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58ff4d78-26f1-4f0f-8705-dd6d72fa2cac" name="Changes" comment="Programação Orientada à Objetos.&#10;Programa Vetores">
-      <change afterPath="$PROJECT_DIR$/src/edu/javaoo/aula7/intermediario/Aula3_2.java" afterDir="false" />
+    <list default="true" id="58ff4d78-26f1-4f0f-8705-dd6d72fa2cac" name="Changes" comment="Programação Orientada à Objetos.&#10;Programa Listas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -326,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679081243809</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Programação Orientada à Objetos.&#10;Programa Listas">
+      <created>1679083978139</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1679083978140</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,7 +347,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Entrega do exercício 1." />
     <MESSAGE value="Entrega do exercício 2." />
     <MESSAGE value="Entrega do exercício 3." />
     <MESSAGE value="Correção dos exercícios 1, 2 e 3." />
@@ -366,7 +371,8 @@
     <MESSAGE value="Programação Orientada à Objetos.&#10;Contrutores, Sobrecarga, Getters &amp; Setters." />
     <MESSAGE value="Programação Orientada à Objetos.&#10;Programa Conta Bancária" />
     <MESSAGE value="Programação Orientada à Objetos.&#10;Programa Vetores" />
-    <option name="LAST_COMMIT_MESSAGE" value="Programação Orientada à Objetos.&#10;Programa Vetores" />
+    <MESSAGE value="Programação Orientada à Objetos.&#10;Programa Listas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programação Orientada à Objetos.&#10;Programa Listas" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
